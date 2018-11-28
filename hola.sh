@@ -1,4 +1,4 @@
-echo "Hola Acciona"
-echo "Todo correcto"
-echo "Provoco un fallo"
+echo "Hola Acciona, soy Jesus"
+echo "y está todo correcto"
+echo "Sin Provocar un fallo"
 exit 1
